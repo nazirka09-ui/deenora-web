@@ -1,0 +1,20 @@
+{
+  "id": "/deenora-web/",
+  "name": "Deenora",
+  "short_name": "Deenora",
+  "lang": "ru",
+  "description": "Коран, намаз, задачи и обучение",
+  "start_url": "/deenora-web/",
+  "scope": "/deenora-web/",
+  "display": "standalone",
+  "background_color": "#0F281F",
+  "theme_color": "#0F281F",
+  "icons": [
+    {
+      "src": "/deenora-web/app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
